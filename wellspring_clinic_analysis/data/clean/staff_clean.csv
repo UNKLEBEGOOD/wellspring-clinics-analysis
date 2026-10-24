@@ -1,0 +1,25 @@
+StaffID,StaffName,Role,ClinicID,YearsExperience,HireDate
+1001,Amaka Suleiman,Nurse,106,8,2020-12-13
+1002,Chidi Abubakar,Community Health Worker,102,3,2016-10-31
+1003,Amaka Bello,Nurse,104,7,2020-11-05
+1004,Amaka Abubakar,Pharmacist,105,7,2016-03-02
+1005,Chiamaka Nwosu,Pharmacist,106,15,2016-11-05
+1006,Emeka Okon,Nurse,103,11,2020-05-03
+1007,Segun Bello,Midwife,102,3,2019-03-12
+1008,Kemi Ogundipe,Doctor,101,9,2022-12-20
+1009,Aisha Bello,Lab Technician,106,13,2022-07-28
+1010,Peter Eze,Doctor,105,7,2022-09-04
+1011,Yusuf Suleiman,Community Health Worker,101,3,2020-11-04
+1012,Hauwa Danjuma,Lab Technician,101,12,2021-08-18
+1013,Blessing Suleiman,Doctor,103,3,2016-08-15
+1014,Aisha Nwosu,Midwife,106,6,2018-04-09
+1015,Aisha Nwosu,Doctor,104,11,2022-10-29
+1016,Segun Okon,Nurse,102,9,2022-09-17
+1017,Segun Nwosu,Pharmacist,102,16,2019-01-07
+1018,Fatima Suleiman,Lab Technician,106,5,2020-09-08
+1019,Aisha Suleiman,Pharmacist,106,14,2016-11-28
+1020,Yusuf Adeyemi,Doctor,104,17,2017-12-02
+1021,Chidi Adeyemi,Nurse,101,6,2015-10-28
+1022,Ngozi Okon,Pharmacist,104,13,2016-10-09
+1023,Hauwa Abubakar,Pharmacist,104,1,2015-10-29
+1024,Aisha Suleiman,Nurse,106,11,2022-03-16

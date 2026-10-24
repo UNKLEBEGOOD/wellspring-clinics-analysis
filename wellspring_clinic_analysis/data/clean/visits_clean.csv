@@ -1,0 +1,421 @@
+VisitID,PatientID,ClinicID,StaffID,VisitDate,Department,Diagnosis,WaitTimeMinutes,FollowUpRequired,ConsultationFee
+9001,5058,102,1016,2024-04-13,Pharmacy,Diabetes Follow-up,42.0,Yes,3000
+9002,5043,106,1014,2025-01-08,Family Planning,Postnatal Review,33.0,No,3000
+9003,5121,102,1017,2025-04-17,Lab,Immunization,45.0,Yes,3000
+9004,5065,101,1012,2024-04-15,Immunization,Hypertension,58.0,Yes,7500
+9005,5057,104,1001,2025-02-28,Family Planning,Anemia,31.0,No,5000
+9006,5082,101,1012,2024-05-29,Antenatal,Typhoid,31.0,Yes,15000
+9007,5021,101,1011,2025-06-24,Antenatal,Typhoid,59.0,No,7500
+9008,5017,101,1021,2024-01-17,Pharmacy,Routine Checkup,,No,3000
+9009,5022,105,1003,2025-06-22,Family Planning,Respiratory Infection,,No,5000
+9010,5018,103,1006,2024-12-06,Antenatal,Diabetes Follow-up,43.0,Yes,15000
+9011,5047,102,1017,2024-02-07,General Outpatient,Malaria,28.0,No,5000
+9012,5140,104,1015,2024-10-19,Lab,Malaria,28.0,No,5000
+9013,5113,104,1015,2025-05-23,Immunization,Anemia,39.0,Yes,2500
+9014,5047,105,1004,2024-03-22,Pharmacy,Typhoid,6.0,Yes,3000
+9015,5011,106,1012,2025-03-21,Pharmacy,Malaria,9.0,No,10000
+9016,5008,102,1017,2024-02-05,Antenatal,Antenatal Review,27.0,Yes,10000
+9017,5040,106,1009,2025-01-15,Lab,Hypertension,20.0,Yes,5000
+9018,5030,101,1021,2025-06-14,Pediatrics,Hypertension,40.0,No,3000
+9019,5126,102,1002,2025-04-07,Pharmacy,Respiratory Infection,21.0,No,15000
+9020,5017,105,1010,2024-06-10,Lab,Diabetes Follow-up,14.0,No,3000
+9021,5127,101,1012,2025-04-23,Pediatrics,Hypertension,57.0,No,10000
+9022,5019,102,1021,2024-03-16,Family Planning,Anemia,32.0,Yes,3000
+9023,5015,101,1012,2024-06-17,Immunization,Antenatal Review,36.0,Yes,2500
+9024,5041,103,1013,2024-04-05,Pediatrics,Postnatal Review,14.0,No,10000
+9025,5008,101,1012,2024-08-03,Pediatrics,Malaria,27.0,Yes,15000
+9026,5104,103,1006,2024-06-10,Family Planning,Respiratory Infection,37.0,Yes,5000
+9027,5089,104,1020,2025-06-11,Immunization,Antenatal Review,18.0,No,3000
+9028,5075,104,1014,2024-09-11,Lab,Diabetes Follow-up,41.0,No,3000
+9029,5128,103,1006,2025-02-06,General Outpatient,Antenatal Review,,Yes,7500
+9030,5121,103,1006,2025-03-17,Immunization,Diabetes Follow-up,31.0,Yes,2500
+9031,5041,103,1013,2024-10-13,General Outpatient,Hypertension,26.0,No,10000
+9032,5051,105,1004,2024-02-16,General Outpatient,Diabetes Follow-up,63.0,Yes,10000
+9033,5082,102,1016,2024-12-10,Pharmacy,Postnatal Review,35.0,No,5000
+9034,5079,106,1021,2024-01-28,Immunization,Postnatal Review,19.0,No,3000
+9035,5098,102,1007,2024-02-02,General Outpatient,Malaria,47.0,Yes,15000
+9036,5129,105,1024,2024-03-04,Pediatrics,Antenatal Review,17.0,No,10000
+9037,5045,104,1011,2024-12-28,Pediatrics,Respiratory Infection,38.0,Yes,3000
+9038,5074,106,1019,2025-05-15,Family Planning,Diabetes Follow-up,6.0,Yes,5000
+9039,5140,104,1013,2024-12-19,Immunization,Malaria,15.0,No,7500
+9040,5055,102,1016,2024-10-05,Antenatal,Postnatal Review,38.0,Yes,15000
+9041,5060,101,1012,2025-04-28,Pharmacy,Routine Checkup,,Yes,7500
+9042,5122,104,1020,2024-11-24,Pharmacy,Malaria,38.0,No,10000
+9043,5010,102,1007,2024-02-07,Lab,Respiratory Infection,33.0,Yes,2500
+9044,5028,103,1013,2024-05-17,Immunization,Antenatal Review,30.0,No,15000
+9045,5048,101,1012,2024-07-16,Pediatrics,Immunization,13.0,No,7500
+9046,5036,104,1015,2024-01-07,Family Planning,Antenatal Review,24.0,No,5000
+9047,5067,106,1005,2024-03-04,Family Planning,Typhoid,28.0,Yes,15000
+9048,5076,103,1006,2024-05-16,General Outpatient,Respiratory Infection,51.0,Yes,15000
+9049,5138,106,1024,2024-09-10,Pediatrics,Respiratory Infection,40.0,No,2500
+9050,5052,105,1004,2024-12-01,Antenatal,Antenatal Review,9.0,No,2500
+9051,5117,105,1010,2024-11-11,Family Planning,Typhoid,40.0,No,2500
+9052,5139,101,1003,2025-04-28,Immunization,Immunization,29.0,Yes,5000
+9053,5097,104,1023,2024-05-16,Antenatal,Routine Checkup,25.0,Yes,15000
+9054,5006,103,1013,2025-06-28,Lab,Antenatal Review,44.0,Yes,3000
+9055,5029,101,1021,2024-01-17,General Outpatient,Hypertension,,Yes,3000
+9056,5060,105,1004,2024-05-23,General Outpatient,Postnatal Review,49.0,No,3000
+9057,5037,106,1014,2024-11-03,Antenatal,Anemia,22.0,Yes,15000
+9058,5013,103,1022,2025-01-25,Pharmacy,Immunization,30.0,Yes,10000
+9059,5077,106,1014,2024-02-29,Family Planning,Anemia,40.0,Yes,3000
+9060,5021,104,1003,2024-07-14,Immunization,Immunization,50.0,No,3000
+9061,5056,104,1020,2024-11-06,General Outpatient,Antenatal Review,28.0,No,3000
+9062,5102,102,1016,2025-01-24,Pediatrics,Diabetes Follow-up,32.0,No,7500
+9063,5121,103,1012,2024-11-16,Antenatal,Postnatal Review,18.0,Yes,5000
+9064,5107,103,1013,2024-08-23,Pediatrics,Antenatal Review,17.0,No,5000
+9065,5126,104,1020,2024-06-22,Pharmacy,Anemia,47.0,Yes,10000
+9066,5020,106,1001,2025-02-26,Lab,Antenatal Review,55.0,No,10000
+9067,5124,106,1001,2025-06-28,Antenatal,Malaria,34.0,Yes,2500
+9068,5111,102,1002,2025-06-20,General Outpatient,Antenatal Review,50.0,No,5000
+9069,5104,104,1015,2024-11-03,Pharmacy,Malaria,40.0,No,2500
+9070,5022,104,1020,2024-04-07,General Outpatient,Antenatal Review,25.0,No,5000
+9071,5020,106,1018,2024-02-03,Lab,Diabetes Follow-up,,Yes,15000
+9072,5077,102,1017,2024-12-05,Lab,Routine Checkup,58.0,No,10000
+9073,5026,104,1003,2024-12-14,Lab,Diabetes Follow-up,,No,7500
+9074,5041,104,1023,2025-01-24,Lab,Postnatal Review,58.0,No,2500
+9075,5098,106,1005,2025-02-02,Immunization,Hypertension,,No,5000
+9076,5023,102,1017,2024-04-15,Antenatal,Diabetes Follow-up,47.0,No,7500
+9077,5106,104,1023,2024-09-05,Pharmacy,Immunization,36.0,Yes,7500
+9078,5043,104,1020,2025-05-10,Immunization,Typhoid,31.0,No,10000
+9079,5035,103,1013,2024-12-06,Lab,Diabetes Follow-up,36.0,Yes,5000
+9080,5052,104,1022,2024-11-22,Pharmacy,Respiratory Infection,5.0,No,7500
+9081,5101,103,1006,2024-07-03,Pharmacy,Respiratory Infection,32.0,Yes,15000
+9082,5105,106,1019,2024-11-06,Immunization,Routine Checkup,40.0,No,7500
+9083,5103,105,1010,2024-02-07,Pharmacy,Anemia,57.0,No,3000
+9084,5012,105,1022,2025-02-13,Lab,Immunization,27.0,No,10000
+9085,5057,104,1022,2025-05-27,Immunization,Malaria,23.0,No,2500
+9086,5090,103,1006,2025-06-17,Immunization,Respiratory Infection,27.0,No,5000
+9087,5012,106,1024,2024-12-17,Pharmacy,Routine Checkup,49.0,Yes,10000
+9088,5110,104,1022,2024-07-07,Pharmacy,Immunization,40.0,No,7500
+9089,5055,102,1002,2024-04-14,Immunization,Diabetes Follow-up,27.0,No,10000
+9090,5100,105,1004,2024-12-22,Lab,Respiratory Infection,43.0,Yes,10000
+9091,5081,101,1008,2024-07-06,Pharmacy,Routine Checkup,36.0,Yes,10000
+9092,5048,104,1015,2024-06-19,Immunization,Routine Checkup,50.0,Yes,5000
+9093,5050,104,1017,2025-05-21,Pharmacy,Respiratory Infection,24.0,No,3000
+9094,5008,102,1016,2024-08-18,General Outpatient,Respiratory Infection,30.0,No,10000
+9095,5069,105,1010,2024-02-12,Pediatrics,Antenatal Review,29.0,No,5000
+9096,5068,103,1003,2025-03-25,Lab,Antenatal Review,13.0,No,15000
+9097,5036,102,1002,2024-12-25,Pediatrics,Anemia,39.0,Yes,5000
+9098,5132,106,1005,2025-02-25,Immunization,Routine Checkup,39.0,Yes,15000
+9099,5064,106,1005,2024-10-02,Family Planning,Respiratory Infection,35.0,No,7500
+9100,5095,104,1011,2024-01-03,Pharmacy,Respiratory Infection,31.0,No,10000
+9101,5110,102,1016,2024-10-17,Pediatrics,Postnatal Review,14.0,No,15000
+9102,5118,101,1011,2025-03-27,Antenatal,Immunization,29.0,Yes,15000
+9103,5071,101,1012,2024-03-25,Pharmacy,Routine Checkup,30.0,No,7500
+9104,5001,102,1007,2024-08-19,Antenatal,Malaria,23.0,Yes,15000
+9105,5019,102,1002,2024-04-15,Immunization,Typhoid,33.0,Yes,15000
+9106,5136,105,1004,2025-03-26,Pharmacy,Antenatal Review,41.0,Yes,10000
+9107,5023,101,1008,2025-01-28,Family Planning,Diabetes Follow-up,63.0,No,3000
+9108,5073,106,1024,2024-11-04,Pediatrics,Postnatal Review,38.0,Yes,15000
+9109,5062,104,1015,2025-05-26,Pediatrics,Malaria,39.0,Yes,7500
+9110,5094,105,1010,2024-03-15,Pediatrics,Hypertension,,Yes,7500
+9111,5129,104,1022,2024-03-25,Immunization,Hypertension,6.0,No,3000
+9112,5017,103,1006,2024-02-29,Antenatal,Immunization,35.0,Yes,5000
+9113,5045,101,1011,2024-01-12,Family Planning,Diabetes Follow-up,36.0,Yes,3000
+9114,5069,106,1001,2024-12-09,Immunization,Anemia,72.0,No,7500
+9115,5128,105,1004,2024-09-18,Pediatrics,Hypertension,32.0,Yes,2500
+9116,5121,103,1006,2024-07-02,Pediatrics,Immunization,40.0,No,5000
+9117,5031,105,1004,2024-07-02,Lab,Anemia,34.0,No,7500
+9118,5080,103,1013,2024-01-09,General Outpatient,Typhoid,17.0,No,7500
+9119,5127,102,1007,2024-06-03,Family Planning,Malaria,52.0,Yes,5000
+9120,5097,106,1001,2024-07-29,Family Planning,Respiratory Infection,46.0,Yes,15000
+9121,5012,102,1017,2025-02-26,Family Planning,Hypertension,47.0,Yes,2500
+9122,5034,102,1016,2025-02-06,Immunization,Respiratory Infection,21.0,No,3000
+9123,5040,101,1021,2024-11-17,Antenatal,Anemia,56.0,No,5000
+9124,5024,102,1016,2024-02-11,Lab,Diabetes Follow-up,14.0,No,7500
+9125,5067,102,1017,2025-04-08,Antenatal,Respiratory Infection,44.0,No,2500
+9126,5057,102,1017,2025-01-16,Pediatrics,Postnatal Review,68.0,Yes,2500
+9127,5114,102,1016,2024-05-05,Family Planning,Malaria,20.0,Yes,7500
+9128,5110,102,1007,2024-10-08,Family Planning,Routine Checkup,,No,15000
+9129,5106,105,1004,2024-10-13,General Outpatient,Immunization,36.0,No,15000
+9130,5005,104,1020,2025-05-06,Immunization,Postnatal Review,27.0,Yes,2500
+9131,5057,101,1009,2024-02-29,Pediatrics,Diabetes Follow-up,12.0,Yes,2500
+9132,5062,103,1006,2024-08-12,Immunization,Routine Checkup,36.0,No,10000
+9133,5091,105,1004,2025-05-19,General Outpatient,Respiratory Infection,,No,2500
+9134,5052,102,1007,2024-11-27,Antenatal,Routine Checkup,42.0,No,10000
+9135,5096,106,1013,2024-04-13,Immunization,Diabetes Follow-up,21.0,Yes,15000
+9136,5045,106,1023,2024-12-31,Pharmacy,Postnatal Review,58.0,Yes,3000
+9137,5001,106,1013,2024-02-03,Pediatrics,Diabetes Follow-up,23.0,No,15000
+9138,5037,103,1006,2024-12-21,General Outpatient,Hypertension,30.0,No,7500
+9139,5054,102,1016,2024-09-19,Pharmacy,Malaria,,Yes,3000
+9140,5097,103,1006,2025-05-05,General Outpatient,Respiratory Infection,17.0,Yes,2500
+9141,5027,101,1021,2024-06-13,Pediatrics,Hypertension,38.0,No,15000
+9142,5043,105,1006,2024-02-24,Immunization,Antenatal Review,55.0,Yes,15000
+9143,5061,101,1021,2024-06-06,Immunization,Malaria,11.0,No,3000
+9144,5053,102,1002,2025-04-29,Immunization,Immunization,38.0,Yes,2500
+9145,5095,104,1022,2024-02-15,Family Planning,Respiratory Infection,39.0,Yes,3000
+9146,5022,106,1018,2025-02-27,Pediatrics,Malaria,47.0,Yes,10000
+9147,5061,104,1022,2024-02-05,Antenatal,Respiratory Infection,16.0,No,3000
+9148,5109,101,1014,2024-07-25,Lab,Postnatal Review,15.0,No,2500
+9149,5102,105,1010,2025-06-16,Lab,Malaria,43.0,Yes,2500
+9150,5026,101,1008,2024-10-19,Family Planning,Typhoid,39.0,No,2500
+9151,5104,102,1017,2024-02-09,Immunization,Antenatal Review,,Yes,5000
+9152,5078,103,1013,2024-04-10,General Outpatient,Typhoid,40.0,No,5000
+9153,5023,102,1017,2025-05-11,Lab,Malaria,25.0,Yes,15000
+9154,5135,105,1004,2024-07-24,General Outpatient,Malaria,38.0,No,5000
+9155,5119,105,1004,2024-02-01,Immunization,Respiratory Infection,39.0,No,10000
+9156,5067,106,1001,2024-10-18,Family Planning,Malaria,24.0,No,3000
+9157,5069,106,1001,2024-01-10,General Outpatient,Routine Checkup,,Yes,10000
+9158,5071,104,1012,2025-04-15,General Outpatient,Respiratory Infection,42.0,Yes,10000
+9159,5131,106,1012,2024-10-16,Pharmacy,Hypertension,17.0,Yes,15000
+9160,5071,103,1013,2024-07-11,Pediatrics,Antenatal Review,45.0,Yes,15000
+9161,5036,106,1014,2024-10-29,Family Planning,Immunization,,No,5000
+9162,5137,106,1019,2025-01-02,Lab,Routine Checkup,47.0,Yes,5000
+9163,5033,106,1024,2024-07-06,Pharmacy,Hypertension,52.0,Yes,7500
+9164,5067,105,1004,2025-04-26,Lab,Postnatal Review,23.0,No,3000
+9165,5098,105,1004,2024-06-03,General Outpatient,Diabetes Follow-up,49.0,No,3000
+9166,5047,101,1011,2024-11-16,Antenatal,Respiratory Infection,41.0,Yes,10000
+9167,5023,102,1017,2025-02-17,Family Planning,Immunization,,No,2500
+9168,5136,102,1002,2024-09-11,Pharmacy,Diabetes Follow-up,63.0,Yes,3000
+9169,5012,103,1015,2025-06-16,Family Planning,Routine Checkup,31.0,No,3000
+9170,5104,101,1011,2024-08-04,Pediatrics,Anemia,24.0,Yes,7500
+9171,5137,105,1004,2024-04-20,Antenatal,Hypertension,22.0,Yes,7500
+9172,5003,103,1006,2025-06-16,Pediatrics,Postnatal Review,23.0,No,10000
+9173,5030,101,1011,2024-09-26,Immunization,Immunization,,No,3000
+9174,5061,101,1008,2024-04-23,General Outpatient,Hypertension,40.0,No,5000
+9175,5076,103,1006,2024-06-27,Lab,Typhoid,39.0,Yes,15000
+9176,5012,101,1022,2024-06-23,Immunization,Respiratory Infection,47.0,No,5000
+9177,5103,104,1009,2025-01-29,Lab,Immunization,35.0,No,3000
+9178,5041,101,1021,2025-03-24,Pediatrics,Immunization,57.0,Yes,7500
+9179,5106,104,1020,2024-11-17,Pharmacy,Anemia,31.0,No,15000
+9180,5025,104,1015,2025-05-08,Pharmacy,Immunization,76.0,Yes,2500
+9181,5121,104,1003,2025-05-18,General Outpatient,Diabetes Follow-up,44.0,No,10000
+9182,5061,101,1021,2024-03-31,Family Planning,Diabetes Follow-up,22.0,Yes,2500
+9183,5006,101,1012,2025-06-04,Pharmacy,Respiratory Infection,19.0,Yes,3000
+9184,5122,106,1019,2025-04-08,Antenatal,Antenatal Review,,Yes,10000
+9185,5012,102,1017,2024-04-19,Pediatrics,Antenatal Review,32.0,Yes,3000
+9186,5087,101,1008,2024-05-06,Family Planning,Postnatal Review,46.0,No,2500
+9187,5111,105,1004,2024-06-26,Antenatal,Immunization,42.0,No,10000
+9188,5064,103,1013,2024-10-28,Lab,Routine Checkup,34.0,Yes,15000
+9189,5041,106,1005,2024-10-24,Pharmacy,Routine Checkup,22.0,Yes,10000
+9190,5030,103,1013,2024-10-19,Lab,Malaria,,Yes,2500
+9191,5042,103,1006,2024-03-04,General Outpatient,Anemia,,No,10000
+9192,5058,106,1014,2024-08-31,Pharmacy,Malaria,48.0,No,10000
+9193,5065,102,1017,2024-08-18,Lab,Postnatal Review,38.0,No,5000
+9194,5020,102,1024,2025-06-10,Family Planning,Malaria,16.0,Yes,3000
+9195,5085,104,1015,2024-02-10,Immunization,Postnatal Review,38.0,Yes,7500
+9196,5019,106,1005,2024-07-07,Lab,Anemia,41.0,Yes,2500
+9197,5055,106,1009,2024-10-27,Lab,Postnatal Review,22.0,Yes,2500
+9198,5063,101,1012,2025-01-25,Family Planning,Typhoid,37.0,No,10000
+9199,5012,103,1007,2024-11-24,Antenatal,Routine Checkup,36.0,Yes,15000
+9200,5055,106,1001,2024-07-29,Pharmacy,Hypertension,18.0,No,15000
+9201,5023,101,1012,2024-03-13,Immunization,Immunization,40.0,Yes,5000
+9202,5031,105,1004,2024-02-16,Immunization,Anemia,43.0,Yes,10000
+9203,5113,104,1003,2025-04-30,Pediatrics,Antenatal Review,51.0,Yes,15000
+9204,5096,101,1011,2024-05-06,Antenatal,Postnatal Review,51.0,No,5000
+9205,5089,102,1007,2024-06-13,General Outpatient,Postnatal Review,14.0,Yes,15000
+9206,5006,104,1003,2024-10-24,Immunization,Hypertension,21.0,No,5000
+9207,5061,101,1008,2024-07-17,Family Planning,Respiratory Infection,43.0,Yes,10000
+9208,5110,102,1007,2024-08-14,Immunization,Diabetes Follow-up,43.0,No,7500
+9209,5125,105,1004,2024-10-14,Pediatrics,Antenatal Review,43.0,No,15000
+9210,5005,105,1010,2024-08-05,Pediatrics,Typhoid,93.0,No,15000
+9211,5058,105,1010,2024-05-17,Pediatrics,Anemia,44.0,Yes,15000
+9212,5043,105,1004,2024-07-02,Pharmacy,Respiratory Infection,,No,3000
+9213,5095,102,1007,2025-06-14,Family Planning,Respiratory Infection,49.0,Yes,15000
+9214,5134,106,1024,2024-09-26,Family Planning,Immunization,45.0,No,10000
+9215,5058,105,1010,2025-05-13,Pediatrics,Malaria,30.0,Yes,3000
+9216,5072,102,1007,2025-01-05,Pharmacy,Antenatal Review,46.0,No,7500
+9217,5042,106,1001,2024-09-06,General Outpatient,Postnatal Review,23.0,Yes,10000
+9218,5043,103,1017,2025-02-19,Pharmacy,Typhoid,31.0,No,7500
+9219,5106,105,1004,2025-06-07,General Outpatient,Diabetes Follow-up,28.0,No,3000
+9220,5034,101,1021,2024-06-02,General Outpatient,Respiratory Infection,36.0,No,2500
+9221,5139,101,1022,2025-03-17,Immunization,Malaria,70.0,No,7500
+9222,5026,104,1022,2024-08-26,Immunization,Postnatal Review,7.0,No,2500
+9223,5134,101,1021,2024-07-29,Family Planning,Diabetes Follow-up,45.0,Yes,5000
+9224,5094,105,1010,2024-07-27,Pediatrics,Anemia,11.0,No,5000
+9225,5102,106,1024,2024-05-01,Family Planning,Routine Checkup,28.0,No,10000
+9226,5014,102,1002,2024-04-03,Family Planning,Postnatal Review,51.0,No,5000
+9227,5010,106,1014,2025-06-17,Pharmacy,Postnatal Review,36.0,Yes,15000
+9228,5133,103,1006,2024-06-22,Immunization,Antenatal Review,19.0,No,5000
+9229,5102,104,1023,2024-01-16,Antenatal,Anemia,24.0,No,5000
+9230,5050,104,1019,2024-01-05,General Outpatient,Immunization,45.0,Yes,5000
+9231,5066,105,1010,2025-03-29,Pediatrics,Respiratory Infection,24.0,No,15000
+9232,5008,104,1003,2025-01-26,Pharmacy,Antenatal Review,38.0,No,10000
+9233,5068,102,1017,2024-12-16,Pediatrics,Routine Checkup,36.0,Yes,3000
+9234,5049,104,1015,2024-09-04,General Outpatient,Antenatal Review,25.0,No,3000
+9235,5021,106,1016,2024-01-07,Lab,Respiratory Infection,67.0,Yes,7500
+9236,5131,103,1006,2024-02-25,Family Planning,Anemia,,Yes,7500
+9237,5118,103,1006,2024-08-03,Pediatrics,Hypertension,5.0,Yes,3000
+9238,5121,105,1004,2025-05-25,General Outpatient,Immunization,38.0,Yes,5000
+9239,5059,101,1011,2025-03-18,General Outpatient,Routine Checkup,25.0,No,2500
+9240,5128,102,1021,2025-06-13,Lab,Respiratory Infection,48.0,Yes,7500
+9241,5042,101,1012,2025-05-02,Family Planning,Diabetes Follow-up,23.0,Yes,5000
+9242,5032,103,1020,2024-07-22,Lab,Typhoid,33.0,No,15000
+9243,5074,104,1015,2024-06-20,Family Planning,Postnatal Review,43.0,No,2500
+9244,5059,103,1013,2024-09-30,Immunization,Respiratory Infection,48.0,No,7500
+9245,5006,102,1016,2024-03-22,General Outpatient,Immunization,17.0,No,10000
+9246,5102,105,1004,2024-04-16,Pediatrics,Routine Checkup,30.0,Yes,5000
+9247,5073,104,1015,2025-06-23,Antenatal,Malaria,28.0,No,7500
+9248,5070,105,1004,2025-04-12,Pediatrics,Anemia,25.0,No,2500
+9249,5067,102,1002,2025-06-19,Immunization,Typhoid,,No,7500
+9250,5111,103,1006,2025-01-17,Family Planning,Anemia,41.0,Yes,7500
+9251,5021,104,1023,2024-10-05,Pharmacy,Anemia,16.0,No,3000
+9252,5029,106,1014,2024-10-05,General Outpatient,Diabetes Follow-up,,Yes,3000
+9253,5033,106,1001,2024-08-26,General Outpatient,Malaria,67.0,Yes,7500
+9254,5009,103,1006,2024-02-27,Lab,Immunization,50.0,No,5000
+9255,5032,106,1024,2025-03-29,Pharmacy,Malaria,12.0,No,10000
+9256,5100,106,1011,2024-06-11,Pharmacy,Anemia,28.0,Yes,3000
+9257,5014,106,1001,2024-08-29,Immunization,Malaria,54.0,No,7500
+9258,5011,105,1010,2024-06-07,Lab,Hypertension,24.0,No,15000
+9259,5092,106,1018,2024-04-19,Family Planning,Antenatal Review,42.0,No,7500
+9260,5097,103,1013,2024-02-10,Pharmacy,Respiratory Infection,47.0,No,3000
+9261,5083,106,1024,2024-06-13,Pediatrics,Routine Checkup,21.0,No,7500
+9262,5130,104,1003,2025-01-07,Immunization,Hypertension,34.0,Yes,3000
+9263,5041,102,1016,2025-02-23,Antenatal,Hypertension,,Yes,3000
+9264,5125,102,1017,2025-05-16,Antenatal,Diabetes Follow-up,20.0,Yes,3000
+9265,5021,104,1003,2025-01-04,Lab,Diabetes Follow-up,31.0,Yes,10000
+9266,5019,103,1006,2025-06-15,Antenatal,Antenatal Review,16.0,No,10000
+9267,5107,106,1019,2025-01-01,Pharmacy,Immunization,59.0,Yes,10000
+9268,5041,105,1015,2024-12-26,Pediatrics,Diabetes Follow-up,14.0,Yes,15000
+9269,5062,105,1010,2024-09-17,Family Planning,Respiratory Infection,,Yes,5000
+9270,5078,101,1011,2024-08-07,Antenatal,Typhoid,37.0,Yes,2500
+9271,5092,102,1016,2024-09-12,Immunization,Typhoid,57.0,No,15000
+9272,5084,104,1023,2024-04-07,Antenatal,Postnatal Review,13.0,No,5000
+9273,5031,102,1002,2025-01-26,Immunization,Anemia,,Yes,5000
+9274,5013,106,1014,2025-04-01,General Outpatient,Immunization,35.0,Yes,5000
+9275,5013,105,1004,2025-02-12,Lab,Routine Checkup,20.0,No,7500
+9276,5051,105,1004,2024-09-05,Immunization,Immunization,42.0,No,2500
+9277,5090,102,1002,2024-11-08,Immunization,Postnatal Review,38.0,Yes,7500
+9278,5060,102,1007,2024-03-28,Pharmacy,Malaria,26.0,Yes,5000
+9279,5029,103,1006,2024-12-05,Pharmacy,Anemia,36.0,Yes,10000
+9280,5037,106,1001,2025-01-20,Immunization,Routine Checkup,29.0,Yes,2500
+9281,5018,104,1020,2024-04-20,Immunization,Immunization,37.0,No,5000
+9282,5023,102,1017,2024-01-23,General Outpatient,Anemia,45.0,Yes,2500
+9283,5091,103,1006,2025-05-28,Lab,Malaria,59.0,Yes,10000
+9284,5088,104,1003,2025-01-26,Family Planning,Antenatal Review,16.0,Yes,10000
+9285,5139,102,1007,2024-07-26,Immunization,Anemia,67.0,Yes,15000
+9286,5082,101,1008,2024-07-07,Lab,Routine Checkup,6.0,Yes,7500
+9287,5071,102,1002,2024-05-14,Antenatal,Postnatal Review,33.0,No,10000
+9288,5007,103,1013,2024-05-17,Pharmacy,Diabetes Follow-up,44.0,No,3000
+9289,5058,101,1008,2024-10-03,General Outpatient,Antenatal Review,39.0,No,10000
+9290,5118,102,1002,2025-01-24,Family Planning,Postnatal Review,26.0,Yes,10000
+9291,5117,101,1008,2025-06-15,Pharmacy,Malaria,32.0,Yes,3000
+9292,5102,103,1013,2025-04-17,Family Planning,Typhoid,28.0,Yes,7500
+9293,5129,101,1011,2025-02-06,Immunization,Respiratory Infection,,No,7500
+9294,5083,106,1019,2024-06-16,Antenatal,Hypertension,48.0,No,10000
+9295,5131,105,1013,2025-01-24,Lab,Routine Checkup,40.0,Yes,3000
+9296,5014,104,1022,2024-10-22,Antenatal,Routine Checkup,,Yes,2500
+9297,5140,101,1021,2024-08-31,Pediatrics,Respiratory Infection,48.0,Yes,3000
+9298,5054,101,1008,2024-12-23,General Outpatient,Malaria,40.0,Yes,5000
+9299,5107,102,1016,2024-06-30,Pharmacy,Postnatal Review,,Yes,5000
+9300,5098,101,1008,2024-10-26,General Outpatient,Hypertension,44.0,Yes,10000
+9301,5054,105,1004,2025-05-10,Family Planning,Postnatal Review,23.0,No,3000
+9302,5128,104,1023,2024-08-26,General Outpatient,Malaria,27.0,No,15000
+9303,5107,104,1020,2024-08-05,Pharmacy,Antenatal Review,46.0,No,5000
+9304,5006,103,1006,2024-12-07,Family Planning,Postnatal Review,,Yes,3000
+9305,5087,106,1014,2024-02-06,Family Planning,Routine Checkup,35.0,No,7500
+9306,5015,105,1010,2024-01-20,Pediatrics,Diabetes Follow-up,37.0,No,2500
+9307,5008,103,1021,2024-06-18,General Outpatient,Postnatal Review,54.0,Yes,15000
+9308,5070,104,1015,2025-01-15,Lab,Typhoid,26.0,No,5000
+9309,5024,104,1022,2025-05-27,General Outpatient,Diabetes Follow-up,43.0,Yes,5000
+9310,5026,105,1004,2024-07-29,Family Planning,Immunization,32.0,Yes,5000
+9311,5023,103,1006,2024-04-15,Antenatal,Postnatal Review,32.0,No,5000
+9312,5074,103,1013,2024-04-30,General Outpatient,Routine Checkup,,No,3000
+9313,5070,102,1010,2024-09-07,Antenatal,Typhoid,47.0,No,2500
+9314,5121,106,1014,2024-02-25,Family Planning,Immunization,47.0,No,10000
+9315,5086,102,1002,2025-04-21,Antenatal,Respiratory Infection,55.0,No,7500
+9316,5058,102,1020,2024-09-21,Family Planning,Routine Checkup,35.0,No,7500
+9317,5029,103,1006,2024-10-16,Pediatrics,Postnatal Review,45.0,No,5000
+9318,5078,105,1010,2024-09-01,Pediatrics,Routine Checkup,30.0,No,3000
+9319,5112,105,1004,2024-06-26,Pharmacy,Postnatal Review,40.0,No,5000
+9320,5046,103,1003,2024-04-21,Immunization,Respiratory Infection,33.0,No,3000
+9321,5001,102,1017,2025-06-28,Family Planning,Postnatal Review,36.0,No,5000
+9322,5078,104,1020,2024-04-01,Pediatrics,Anemia,44.0,Yes,2500
+9323,5006,101,1012,2024-04-22,Lab,Malaria,23.0,Yes,15000
+9324,5098,104,1023,2024-08-04,Family Planning,Routine Checkup,66.0,No,7500
+9325,5033,102,1002,2024-05-27,Pharmacy,Immunization,20.0,Yes,15000
+9326,5109,105,1010,2025-04-05,Immunization,Antenatal Review,17.0,No,15000
+9327,5129,103,1013,2024-02-04,Pediatrics,Respiratory Infection,52.0,No,15000
+9328,5135,103,1006,2025-06-19,General Outpatient,Respiratory Infection,47.0,No,15000
+9329,5080,105,1010,2024-01-12,Family Planning,Anemia,44.0,No,7500
+9330,5076,103,1013,2024-09-23,Pharmacy,Respiratory Infection,44.0,Yes,15000
+9331,5022,102,1016,2024-09-15,Pediatrics,Typhoid,35.0,No,10000
+9332,5039,106,1024,2024-06-28,Lab,Antenatal Review,22.0,Yes,5000
+9333,5040,104,1022,2025-01-27,Pharmacy,Respiratory Infection,36.0,No,2500
+9334,5030,101,1021,2025-05-02,Family Planning,Anemia,25.0,Yes,7500
+9335,5136,104,1022,2025-01-26,Pediatrics,Malaria,50.0,No,7500
+9336,5070,103,1006,2024-09-18,Family Planning,Antenatal Review,33.0,No,10000
+9337,5047,103,1006,2024-03-10,Family Planning,Hypertension,23.0,No,3000
+9338,5009,101,1008,2024-08-10,Pharmacy,Hypertension,30.0,Yes,15000
+9339,5048,101,1012,2024-10-28,Pharmacy,Hypertension,41.0,Yes,7500
+9340,5083,103,1006,2024-10-10,Family Planning,Immunization,27.0,Yes,3000
+9341,5052,105,1010,2024-04-21,Pediatrics,Immunization,23.0,No,15000
+9342,5009,101,1012,2025-04-01,Family Planning,Routine Checkup,,Yes,15000
+9343,5039,106,1014,2024-01-04,Family Planning,Immunization,39.0,No,10000
+9344,5099,106,1014,2024-05-04,Immunization,Typhoid,27.0,No,5000
+9345,5021,104,1020,2024-07-26,Pediatrics,Malaria,28.0,Yes,15000
+9346,5028,106,1014,2024-03-27,Pharmacy,Antenatal Review,38.0,No,7500
+9347,5139,106,1018,2025-04-05,Antenatal,Diabetes Follow-up,13.0,Yes,7500
+9348,5134,104,1018,2024-06-01,Antenatal,Malaria,14.0,Yes,7500
+9349,5063,106,1001,2024-06-25,Immunization,Hypertension,24.0,No,2500
+9350,5057,101,1021,2024-12-11,Immunization,Hypertension,32.0,Yes,5000
+9351,5012,105,1004,2024-05-03,General Outpatient,Immunization,40.0,Yes,7500
+9352,5011,102,1017,2024-06-10,Family Planning,Hypertension,,No,15000
+9353,5107,106,1024,2025-05-02,General Outpatient,Routine Checkup,48.0,Yes,3000
+9354,5010,105,1010,2024-03-31,Immunization,Immunization,,No,10000
+9355,5139,105,1004,2024-10-10,General Outpatient,Hypertension,35.0,No,7500
+9356,5012,101,1012,2024-08-02,Immunization,Diabetes Follow-up,20.0,No,2500
+9357,5014,105,1004,2025-05-11,Antenatal,Antenatal Review,35.0,No,7500
+9358,5084,102,1016,2024-08-21,General Outpatient,Immunization,31.0,No,2500
+9359,5112,102,1017,2024-07-01,Immunization,Routine Checkup,40.0,No,5000
+9360,5033,101,1008,2024-10-14,Antenatal,Respiratory Infection,23.0,No,3000
+9361,5044,105,1008,2024-03-29,Lab,Anemia,43.0,No,7500
+9362,5110,106,1008,2024-12-01,Pediatrics,Antenatal Review,58.0,Yes,10000
+9363,5012,101,1024,2025-05-31,Family Planning,Anemia,33.0,No,7500
+9364,5004,106,1005,2024-05-15,Immunization,Antenatal Review,41.0,No,15000
+9365,5118,105,1004,2025-04-10,Lab,Routine Checkup,45.0,No,15000
+9366,5019,104,1011,2025-06-27,Immunization,Immunization,29.0,No,15000
+9367,5086,106,1017,2025-01-07,Antenatal,Immunization,38.0,No,5000
+9368,5018,105,1004,2024-05-21,General Outpatient,Anemia,35.0,No,15000
+9369,5069,105,1010,2024-02-25,Immunization,Diabetes Follow-up,36.0,No,7500
+9370,5137,103,1013,2024-03-08,Family Planning,Hypertension,23.0,Yes,2500
+9371,5071,101,1021,2024-06-03,Pediatrics,Malaria,35.0,Yes,7500
+9372,5114,106,1009,2024-07-12,Antenatal,Antenatal Review,42.0,No,7500
+9373,5084,104,1023,2025-03-31,Immunization,Postnatal Review,57.0,Yes,5000
+9374,5096,103,1006,2024-05-31,Immunization,Respiratory Infection,49.0,Yes,15000
+9375,5045,106,1019,2024-06-06,General Outpatient,Hypertension,,Yes,7500
+9376,5048,102,1002,2024-11-20,General Outpatient,Diabetes Follow-up,23.0,Yes,2500
+9377,5128,102,1011,2024-06-08,Pharmacy,Anemia,48.0,Yes,7500
+9378,5038,105,1010,2024-12-12,Pharmacy,Respiratory Infection,38.0,No,5000
+9379,5057,104,1020,2024-02-26,Pediatrics,Anemia,68.0,Yes,3000
+9380,5138,104,1003,2025-06-08,General Outpatient,Respiratory Infection,23.0,Yes,15000
+9381,5038,106,1012,2025-01-30,Antenatal,Typhoid,22.0,No,10000
+9382,5114,106,1015,2024-10-22,Lab,Immunization,26.0,No,3000
+9383,5122,105,1003,2025-01-19,Antenatal,Immunization,3.0,Yes,10000
+9384,5036,102,1017,2024-10-23,Antenatal,Typhoid,27.0,No,3000
+9385,5001,102,1017,2024-05-07,Family Planning,Routine Checkup,24.0,No,2500
+9386,5071,104,1003,2025-01-05,Pediatrics,Immunization,37.0,No,15000
+9387,5005,103,1006,2024-05-29,Family Planning,Routine Checkup,40.0,No,7500
+9388,5013,103,1006,2025-06-10,Lab,Routine Checkup,63.0,Yes,10000
+9389,5081,106,1009,2025-01-06,Pediatrics,Postnatal Review,49.0,Yes,10000
+9390,5125,104,1015,2024-04-14,General Outpatient,Anemia,26.0,No,7500
+9391,5034,101,1012,2025-01-06,Lab,Respiratory Infection,22.0,No,3000
+9392,5031,102,1007,2024-08-20,General Outpatient,Antenatal Review,42.0,No,2500
+9393,5124,104,1003,2024-02-03,Family Planning,Hypertension,,Yes,15000
+9394,5025,101,1007,2024-07-23,Pharmacy,Diabetes Follow-up,,Yes,10000
+9395,5042,105,1004,2025-06-01,Antenatal,Postnatal Review,53.0,No,5000
+9396,5138,101,1004,2024-08-07,Immunization,Postnatal Review,28.0,No,3000
+9397,5109,102,1017,2024-04-25,Antenatal,Respiratory Infection,9.0,No,15000
+9398,5011,101,1008,2025-01-29,Family Planning,Postnatal Review,55.0,No,3000
+9399,5110,102,1016,2025-01-11,Antenatal,Respiratory Infection,33.0,No,2500
+9400,5103,106,1001,2024-06-21,Immunization,Antenatal Review,54.0,Yes,2500
+9401,5109,106,1024,2024-10-06,Immunization,Respiratory Infection,11.0,No,10000
+9402,5117,101,1021,2025-05-24,Pharmacy,Routine Checkup,,No,7500
+9403,5098,105,1004,2024-11-06,Lab,Hypertension,35.0,No,7500
+9404,5128,104,1023,2024-12-17,Lab,Malaria,36.0,No,7500
+9405,5114,104,1015,2024-11-06,Family Planning,Immunization,28.0,No,2500
+9406,5041,106,1014,2025-05-02,Pediatrics,Malaria,44.0,Yes,10000
+9407,5073,103,1006,2024-05-11,Immunization,Postnatal Review,,No,7500
+9408,5089,103,1006,2024-09-07,General Outpatient,Typhoid,33.0,No,5000
+9409,5044,101,1008,2025-04-16,Pediatrics,Anemia,37.0,No,10000
+9410,5082,104,1020,2024-04-10,Antenatal,Antenatal Review,43.0,No,3000
+9411,5112,102,1002,2024-08-07,Immunization,Malaria,46.0,No,10000
+9412,5025,105,1004,2025-06-27,Family Planning,Antenatal Review,18.0,Yes,10000
+9413,5139,103,1013,2024-09-14,Pharmacy,Anemia,,Yes,10000
+9414,5120,103,1018,2025-03-20,Pediatrics,Antenatal Review,54.0,Yes,15000
+9415,5112,104,1003,2024-07-27,Immunization,Typhoid,40.0,No,7500
+9416,5039,102,1016,2025-04-20,Pediatrics,Immunization,24.0,No,3000
+9417,5008,103,1013,2024-06-29,Pharmacy,Respiratory Infection,58.0,No,5000
+9418,5105,103,1006,2025-02-10,General Outpatient,Hypertension,37.0,No,10000
+9419,5135,103,1006,2024-08-31,Lab,Diabetes Follow-up,53.0,Yes,15000
+9420,5056,102,1007,2024-10-08,Family Planning,Typhoid,36.0,No,15000
