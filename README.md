@@ -6,7 +6,7 @@ I cleaned the raw records of a six-clinic healthcare group in Python, then built
 
 This is a portfolio project. I am a junior data analyst and I wrote down every decision I made, including the mistakes I fixed along the way.
 
-![Overview page](images/overview.png)
+![Overview page](wellspring_clinic_analysis/dashboard/overview.png)
 
 ---
 
